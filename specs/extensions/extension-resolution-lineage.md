@@ -238,8 +238,7 @@ https://github.com/chugarchugarr/-x402-resolution-receipt
 
 Executable RLP-1 semantics and tests:
 
-https://github.com/chugarchugarr/resolution-receipt-technocore/tree/de4b9ce3d1078423de724a11b54ef2d86d573d3d
-
+https://github.com/chugarchugarr/resolution-receipt-technocore/tree/2a2b11f905acd7a1d3dd430ff81ed279c350e6a4
 The RLP-1 implementation provides deterministic state derivation, signed `resolution-state` objects, hash-linked lineage verification, evidence-reference enforcement, and tests covering all four states plus history-rewrite rejection.
 
 The reference fixtures use independent test keys. They are not production x402 verifier or resolver identities.
