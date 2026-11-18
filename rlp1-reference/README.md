@@ -30,3 +30,5 @@ This is an **experimental application-layer reference**, not an approved x402 ex
 The low-level `derive_resolution_state` helper assumes that checks have already been validated; `build_resolution_payload` enforces at least one required check. Native evidence must still be verified according to its own format.
 
 MIT license. No private repositories were made public to create this snapshot.
+
+All included lineage tests run locally without contacting x402 services or requiring access to the private source repository.
